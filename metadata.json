@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Sistema de Presupuestos Textiles",
+  "description": "Plataforma integral para la gestión de clientes, catálogos de materiales y generación automática de presupuestos para uniformes textiles (estudiantiles, deportivos, laborales y políticos).",
+  "requestFramePermissions": []
+}
